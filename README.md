@@ -10,6 +10,6 @@
 
 ## Exercise 01 - Success! 🎉
 
-I'm excited to share that I've successfully completed **Exercise 01**. You can check out my work and other projects on my [personal GitHub account](<GitHub Link>).
+I'm excited to share that I've successfully completed **Exercise 01**. You can check out my work and other projects on my [personal GitHub account](<https://github.com/DavidLiuWangli?tab=repositories>).
 
 Feel free to explore, contribute, or reach out if you have any questions or suggestions!
